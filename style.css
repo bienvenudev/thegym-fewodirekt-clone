@@ -43,3 +43,43 @@ p, h1, h2, h3, h4, h5, h6 {
   white-space: nowrap;
   border-width: 0;
 }
+
+.header_wrapper {
+  display: flex;
+  width: 90%;
+  padding: 1.3rem;
+  margin: auto;
+}
+
+.download_btn {
+  padding: 0.25rem 0.75rem;
+  border: 2px #dfe0e4 solid;
+  border-radius: 30px;
+}
+
+a.nav_btn, .download_btn a {
+  text-decoration: none;
+  color: black;
+}
+
+.download_btn a {
+  display: flex;
+  align-items: center;
+  gap: .1rem;
+}
+
+.download_btn img {
+  height: 1rem;
+  color: blue;
+}
+
+.nav_btn {
+  padding: 0.25rem 1rem;
+}
+
+.menu_wrapper {
+  display: flex;
+  margin-left: auto;
+  gap: 10px;
+  /* list-style-type: none; */
+}
