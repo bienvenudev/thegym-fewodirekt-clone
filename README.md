@@ -1,1 +1,1 @@
-My first clone at thegym (fewo-direkt)
+My first website clone at thegym (fewo-direkt)
