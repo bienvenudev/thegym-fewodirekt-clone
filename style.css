@@ -83,3 +83,21 @@ a.nav_btn, .download_btn a {
   gap: 10px;
   /* list-style-type: none; */
 }
+
+.hero-img {
+  background-image:url('https://forever.travel-assets.com/flex/flexmanager/images/2024/03/06/VRBO_OOH_TRUST_LISBON_HOUSE_NATACHA_WIDE_BACKDOOR_HUMM_0004.jpg');
+  background-size: cover;
+  background-position: 25% 75%;
+  background-repeat: no-repeat;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: white;
+  font-size: 3.5rem;
+  line-height: 3.5rem;
+  text-align: center;
+}
